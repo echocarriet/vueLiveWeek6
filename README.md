@@ -1,3 +1,7 @@
+## 網址
+- https://echocarriet.github.io/vueLiveWeek6/#/
+- https://echocarriet.github.io/vueLiveWeek6/#/login
+-----
 # vueweek6
 
 ## Project setup
@@ -22,3 +26,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
